@@ -1,4 +1,4 @@
-TaskDescription.md
+Description
 Description This task involves the implementation of advanced Object-Oriented Programming (OOP) design patterns to manage geometric shapes. The goal was to refactor standard class logic into scalable, maintainable patterns. The following design patterns were implemented in the solution:
 
 Singleton Pattern:
